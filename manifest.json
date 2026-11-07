@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "pre-commit",
+  "repo": "mirrors-autopep8",
+  "versions": [
+    {
+      "commit": "ff31678cfc7e06898ba918005b1f6f3099b46a66",
+      "parsed_at": "2026-11-07T00:57:42.561037+00:00",
+      "filetree": "filetree/ff31678cfc7e06898ba918005b1f6f3099b46a66.nq.gz",
+      "blobs": [
+        "blob/f6daed45d0378dbb6e7a0519781317a2453f3d1b.nq.gz",
+        "blob/d86d9ea06347dbd79c04079484155ea94fa2c3ed.nq.gz",
+        "blob/2165f8f9b6a830a9d8dd3d2857d7fb86eba1d250.nq.gz",
+        "blob/c4832d03ddbe605e61f9cf46e60bc5b1cc7f2e62.nq.gz",
+        "blob/b0b392d4485f339c17c8117ddeb03ba4cc0d636f.nq.gz",
+        "blob/96c6b0a32c279d6fef926d161d9e36c6f30242cd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
