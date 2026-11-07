@@ -1,0 +1,11 @@
+{
+  "org": "pre-commit",
+  "repo": "mirrors-autopep8",
+  "versions": [
+    {
+      "commit": "ff31678cfc7e06898ba918005b1f6f3099b46a66",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:00:02.785719+00:00"
+    }
+  ]
+}
